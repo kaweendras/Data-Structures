@@ -10,3 +10,7 @@
 ### 2. append() :- This function is used to add the value mentioned in its arguments at the end of the array.
 
 ### 3. insert(i,x) :- This function is used to add the value at the position specified in its argument.
+### 4. pop() :- This function removes the element at the position mentioned in its argument, and returns it.
+### 5. remove() :- This function is used to remove the first occurrence of the value mentioned in its arguments.
+### 6. index() :- This function returns the index of the first occurrence of value mentioned in arguments.
+### 7. reverse() :- This function reverses the array.
