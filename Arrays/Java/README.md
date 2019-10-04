@@ -1,3 +1,10 @@
+#### Jump
+1. [Arrays](https://github.com/kaweendras/Data-Structures/tree/master/Arrays) 
+    - [Java](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/Java) <-
+    - [Python](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/Python)
+    - [C](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/C)
+
+
 # Arrays in Java
 An array is a group of like-typed variables that are referred to by a common name.Arrays in Java work differently than they do in C/C++. Following are some important point about Java arrays.
 
