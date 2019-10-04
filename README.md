@@ -9,6 +9,18 @@
 [![Build Status](https://img.shields.io/badge/Source%20Editor-Visual%20Code-blue.svg)](https://code.visualstudio.com/)
 
 
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About](#about)
+* [List](#list)
+* [Contributing](#contributing)
+* [License](#license)
+
+
+
+
+## About
 A data structure is a particular way of organizing data in a computer so that it can be used effectively.
 
 For example, we can store a list of items having the same data-type using the array data structure.
@@ -23,6 +35,24 @@ For example, we can store a list of items having the same data-type using the ar
     - [Python](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/Python)
     - [C](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/C)
 
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
