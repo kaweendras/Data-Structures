@@ -1,3 +1,12 @@
+#### Jump
+1. [Arrays](https://github.com/kaweendras/Data-Structures/tree/master/Arrays) 
+    - [Java](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/Java)
+    - [Python](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/Python) <-
+    - [C](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/C)
+    
+    
+
+
 ## Operations on Array :
 
 ### 1. array(data type, value list) :- This function is used to create an array with data type and value list specified in its arguments. Some of the data types are mentioned in the table below.
