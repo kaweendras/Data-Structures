@@ -16,7 +16,8 @@ This diagram shows the hierarchy of Stack class:
   <img  src="https://media.geeksforgeeks.org/wp-content/uploads/Selection_028.png">
 </p>
 
-
+The class supports one default constructor Stack() which is used to create an empty stack.
+Below program shows few basic operations provided by the Stack class.
 
 
 
