@@ -11,7 +11,7 @@ The direct superclass of an array type is Object.
 Every array type implements the interfaces Cloneable and java.io.Serializable.
 Array can contains primitives data types as well as objects of a class depending on the definition of array. In case of primitives data types, the actual values are stored in contiguous memory locations. In case of objects of a class, the actual objects are stored in heap segment.
 
-![alt text]()
+
 
 <p align="center">
   <img  src="https://media.geeksforgeeks.org/wp-content/uploads/Arrays1.png">
