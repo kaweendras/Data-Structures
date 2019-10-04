@@ -13,9 +13,9 @@
     Stacks are a type of container adaptors with LIFO(Last In First Out) type of working, where a new element is added at one end and (top) an element is removed from that end only.
  
 The functions associated with stack are:
-- ![#c5f015](empty()?text=+)
-empty() – Returns whether the stack is empty – Time Complexity : O(1)
-size() – Returns the size of the stack – Time Complexity : O(1)
-top() – Returns a reference to the top most element of the stack – Time Complexity : O(1)
-push(g) – Adds the element ‘g’ at the top of the stack – Time Complexity : O(1)
-pop() – Deletes the top most element of the stack – Time Complexity : O(1)
+
+empty() – Returns whether the stack is empty – Time Complexity : O(1) </br>
+size() – Returns the size of the stack – Time Complexity : O(1) </br>
+top() – Returns a reference to the top most element of the stack – Time Complexity : O(1) </br>
+push(g) – Adds the element ‘g’ at the top of the stack – Time Complexity : O(1) </br>
+pop() – Deletes the top most element of the stack – Time Complexity : O(1)</br>
