@@ -17,7 +17,11 @@ For example, we can store a list of items having the same data-type using the ar
   <img  src="https://media.geeksforgeeks.org/wp-content/uploads/array-2.png">
 </p>
 
-
+## List
+1. [Arrays](https://github.com/kaweendras/Data-Structures/tree/master/Arrays)
+    - [Java](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/Java)
+    - [Python](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/Python)
+    - [C](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/C)
 
 
 
