@@ -10,9 +10,13 @@ The size of an array must be specified by an int value and not long or short.
 The direct superclass of an array type is Object.
 Every array type implements the interfaces Cloneable and java.io.Serializable.
 Array can contains primitives data types as well as objects of a class depending on the definition of array. In case of primitives data types, the actual values are stored in contiguous memory locations. In case of objects of a class, the actual objects are stored in heap segment.
-
-
-
 <p align="center">
   <img  src="https://media.geeksforgeeks.org/wp-content/uploads/Arrays1.png">
 </p>
+
+# Multidimensional Array
+<p align="center">
+  <img  src="https://www.geeksforgeeks.org/wp-content/uploads/Blank-Diagram-Page-1-13.jpeg">
+</p>
+
+
