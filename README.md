@@ -6,6 +6,9 @@
 [![MIT License][license-shield]][license-url]
 [![Fork][forks-shield]][forks-url]
 
+[![Build Status](https://img.shields.io/badge/Source%20Editor-Visual%20Code-blue.svg)](https://code.visualstudio.com/)
+
+
 A data structure is a particular way of organizing data in a computer so that it can be used effectively.
 
 For example, we can store a list of items having the same data-type using the array data structure.
@@ -20,6 +23,7 @@ For example, we can store a list of items having the same data-type using the ar
 
 
 
+[![Social](https://img.shields.io/twitter/follow/Dear__spider?style=social)](https://twitter.com/intent/follow?screen_name=Dear__spider)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
