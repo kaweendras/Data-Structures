@@ -35,6 +35,10 @@ For example, we can store a list of items having the same data-type using the ar
     - [Java](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/Java)
     - [Python](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/Python)
     - [C](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/C)
+2. [Stack](https://github.com/kaweendras/Data-Structures/tree/master/Stack) 
+    - [Java](https://github.com/kaweendras/Data-Structures/tree/master/Stack/Java) 
+    - [C++](https://github.com/kaweendras/Data-Structures/tree/master/Stack/C++) 
+
 
 
 <!-- CONTRIBUTING -->
