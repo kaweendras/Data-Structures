@@ -9,3 +9,19 @@
 <p align="center">
   <img  src="https://static.javatpoint.com/ds/images/queue.png">
 </p>
+
+## Applications of Queue
+Due to the fact that queue performs actions on first in first out basis which is quite fair for the ordering of actions. There are various applications of queues discussed as below.
+
+Queues are widely used as waiting lists for a single shared resource like printer, disk, CPU.
+Queues are used in asynchronous transfer of data (where data is not being transferred at the same rate between two processes) for eg. pipes, file IO, sockets.
+Queues are used as buffers in most of the applications like MP3 media player, CD player, etc.
+Queue are used to maintain the play list in media players in order to add and remove the songs from the play-list.
+Queues are used in operating systems for handling interrupts.
+
+## Complexity
+
+<p align="center">
+  <img  src="https://i.ibb.co/4pqGHj5/table.jpg">
+</p>
+
