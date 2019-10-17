@@ -1,4 +1,4 @@
-# This is a string object
+
 name = 'Swaroop'
 
 if name.startswith('Swa'):
