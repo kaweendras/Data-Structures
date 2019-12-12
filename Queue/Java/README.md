@@ -14,12 +14,12 @@ The Queues which are available in java.util.concurrent package are the Bounded Q
 All Queues except the Deques supports insertion and removal at the tail and head of the queue respectively. The Deques support element insertion and removal at both ends.
 Methods in Queue:
 
-add()- This method is used to add elements at the tail of queue. More specifically, at the last of linked-list if it is used, or according to the priority in case of priority queue implementation.
-peek()- This method is used to view the head of queue without removing it. It returns Null if the queue is empty.
-element()- This method is similar to peek(). It throws NoSuchElementException when the queue is empty.
-remove()- This method removes and returns the head of the queue. It throws NoSuchElementException when the queue is empty.
-poll()- This method removes and returns the head of the queue. It returns null if the queue is empty.
-size()- This method return the no. of elements in the queue.
+- add()- This method is used to add elements at the tail of queue. More specifically, at the last of linked-list if it is used, or according to the priority in case of priority queue implementation.
+- peek()- This method is used to view the head of queue without removing it. It returns Null if the queue is empty.
+- element()- This method is similar to peek(). It throws NoSuchElementException when the queue is empty.
+- remove()- This method removes and returns the head of the queue. It throws NoSuchElementException when the queue is empty.
+- poll()- This method removes and returns the head of the queue. It returns null if the queue is empty.
+- size()- This method return the no. of elements in the queue.
 
 
 <p align="center">
