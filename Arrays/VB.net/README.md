@@ -6,8 +6,8 @@
     - [JS](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/JavaScript)
     - [Go](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/Go)
     - [Batch](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/Bat)
-    - [PHP](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/PHP) <--
-    - [VB.net](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/VB.net)
+    - [PHP](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/PHP)
+    - [VB.net](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/VB.net)<--
     - [Kotlin](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/Kotlin)
 2. [Stack](https://github.com/kaweendras/Data-Structures/tree/master/Stack) 
     - [Java](https://github.com/kaweendras/Data-Structures/tree/master/Stack/Java) 
