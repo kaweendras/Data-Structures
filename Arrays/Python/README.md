@@ -24,7 +24,7 @@
     
     insert()	#Adds an element at the specified position
     
-    pop()	#Removes the element at the specified position
+    pop()	  #Removes the element at the specified position
     
     remove()	#Removes the first item with the specified value
     
@@ -33,7 +33,83 @@
     sort()	#Sorts the list
 ```
 
+#### append()
 
+```python
+  fruits = ['apple', 'banana', 'cherry']
+  fruits.append("orange")
+```
+
+#### clear()
+
+```python
+  fruits = ['apple', 'banana', 'cherry']
+  fruits.clear()
+```
+
+#### copy()
+
+```python
+  fruits = ['apple', 'banana', 'cherry']
+  x = fruits.copy()
+```
+
+#### count()
+
+```python
+  fruits = ['apple', 'banana', 'cherry']
+  x = fruits.count("cherry")
+```
+
+#### extend()
+
+```python
+  fruits = ['apple', 'banana', 'cherry']
+  cars = ['Ford', 'BMW', 'Volvo']
+  fruits.extend(cars)
+```
+
+#### index()
+
+```python
+  fruits = ['apple', 'banana', 'cherry']
+  x = fruits.index("cherry")
+```
+
+#### insert()
+
+```python
+  fruits = ['apple', 'banana', 'cherry']
+  fruits.insert(1, "orange")
+```
+
+#### pop()
+
+```python
+  fruits = ['apple', 'banana', 'cherry']
+  fruits.pop(1)
+```
+
+#### remove()
+
+```python
+  fruits = ['apple', 'banana', 'cherry']
+  fruits.remove("banana")
+```
+
+#### reverse()
+
+```python
+  fruits = ['apple', 'banana', 'cherry']
+  fruits.reverse()
+```
+
+#### sort()
+
+```python
+  cars = ['Ford', 'BMW', 'Volvo']
+  cars.sort()
+```
 #### Jump
 1. [Arrays](https://github.com/kaweendras/Data-Structures/tree/master/Arrays)
     - [Java](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/Java)
