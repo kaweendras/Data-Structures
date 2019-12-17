@@ -27,11 +27,11 @@
   <img  src="http://imgs-info.ru/2019/10/04/aaaa.png">
 </p>
 
-
-- append() :- This function is used to add the value mentioned in its arguments at the end of the array.
-
-- insert(i,x) :- This function is used to add the value at the position specified in its argument.
-- pop() :- This function removes the element at the position mentioned in its argument, and returns it.
-- remove() :- This function is used to remove the first occurrence of the value mentioned in its arguments.
-- index() :- This function returns the index of the first occurrence of value mentioned in arguments.
-- reverse() :- This function reverses the array.
+```python
+    append() # This function is used to add the value mentioned in its arguments at the end of the array.
+    insert(i,x) # This function is used to add the value at the position specified in its argument.
+    pop() # This function removes the element at the position mentioned in its argument, and returns it.
+    remove() # This function is used to remove the first occurrence of the value mentioned in its arguments.
+    index() # This function returns the index of the first occurrence of value mentioned in arguments.
+    reverse() # This function reverses the array.
+```
