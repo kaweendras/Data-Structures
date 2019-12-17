@@ -6,7 +6,7 @@
 - array(data type, value list) :- This function is used to create an array with data type and value list specified in its arguments. Some of the data types are mentioned in the table below.
 
 <p align="center">
-  <img  src="http://imgs-info.ru/2019/10/04/aaaa.png">
+  <img  src="https://codeforwin.org/wp-content/uploads/2015/07/array-and-array-index-representation.png">
 </p>
 
 ```python
