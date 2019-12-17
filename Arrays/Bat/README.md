@@ -17,3 +17,17 @@
     - [Java](https://github.com/kaweendras/Data-Structures/tree/master/Queue/Java)
 4. [String](https://github.com/kaweendras/Data-Structures/tree/master/String) 
     - [Python](https://github.com/kaweendras/Data-Structures/tree/master/String/Python)
+    
+   
+   
+   ### Code
+   
+    ```batch
+    @echo off
+    set a[0] = 1 
+    set a[1] = 2 
+    set a[2] = 3 
+    echo The first element of the array is %a[0]% 
+    echo The second element of the array is %a[1]% 
+    echo The third element of the array is %a[2]%
+    ```
