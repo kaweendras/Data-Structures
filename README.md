@@ -7,6 +7,7 @@
 [![Fork][forks-shield]][forks-url]
 
 [![Build Status](https://img.shields.io/badge/Source%20Editor-Visual%20Code-blue.svg)](https://code.visualstudio.com/)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
