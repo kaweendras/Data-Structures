@@ -28,10 +28,25 @@
 </p>
 
 ```python
-    append() # This function is used to add the value mentioned in its arguments at the end of the array.
-    insert(i,x) # This function is used to add the value at the position specified in its argument.
-    pop() # This function removes the element at the position mentioned in its argument, and returns it.
-    remove() # This function is used to remove the first occurrence of the value mentioned in its arguments.
-    index() # This function returns the index of the first occurrence of value mentioned in arguments.
-    reverse() # This function reverses the array.
+    append()	#Adds an element at the end of the list
+    
+    clear()	#Removes all the elements from the list
+    
+    copy()	#Returns a copy of the list
+    
+    count()	#Returns the number of elements with the specified value
+    
+    extend() #Add the elements of a list (or any iterable), to the end of the current list
+    
+    index()	 #Returns the index of the first element with the specified value
+    
+    insert()	#Adds an element at the specified position
+    
+    pop()	#Removes the element at the specified position
+    
+    remove()	#Removes the first item with the specified value
+    
+    reverse()	#Reverses the order of the list
+    
+    sort()	#Sorts the list
 ```
