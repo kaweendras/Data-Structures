@@ -17,23 +17,12 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About](#about)
 * [List](#list)
+* [About](#about)
 * [Contributing](#contributing)
 * [License](#license)
 * [Reference](#reference)
 
-
-
-
-## About
-A data structure is a particular way of organizing data in a computer so that it can be used effectively.
-
-For example, we can store a list of items having the same data-type using the array data structure.
-
-<p align="center">
-  <img  src="https://media.geeksforgeeks.org/wp-content/uploads/array-2.png">
-</p>
 
 ## List
 1. [Arrays](https://github.com/kaweendras/Data-Structures/tree/master/Arrays)
@@ -54,6 +43,19 @@ For example, we can store a list of items having the same data-type using the ar
     - [Java](https://github.com/kaweendras/Data-Structures/tree/master/Queue/Java)
 4. [String](https://github.com/kaweendras/Data-Structures/tree/master/String) 
     - [Python](https://github.com/kaweendras/Data-Structures/tree/master/String/Python)
+
+
+
+
+## About
+A data structure is a particular way of organizing data in a computer so that it can be used effectively.
+
+For example, we can store a list of items having the same data-type using the array data structure.
+
+<p align="center">
+  <img  src="https://media.geeksforgeeks.org/wp-content/uploads/array-2.png">
+</p>
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
