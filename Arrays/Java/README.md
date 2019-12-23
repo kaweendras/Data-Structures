@@ -41,3 +41,13 @@ Array can contains primitives data types as well as objects of a class depending
 </p>
 
 
+### Install Java
+
+#### on windows
+Link - https://www.whatismybrowser.com/guides/how-to-install-java/windows
+
+#### Linux
+```shell
+    sudo apt update; sudo apt install oracle-java8-installer
+```
+
