@@ -128,6 +128,9 @@ If you’re using another version of Ubuntu (e.g. the latest LTS release), we re
   $ sudo apt-get update
   $ sudo apt-get install python3.6
 ```
+#### MacOS
+
+Link - http://www.pyladies.com/blog/Get-Your-Mac-Ready-for-Python-Programming/
 #### Jump
 1. [Arrays](https://github.com/kaweendras/Data-Structures/tree/master/Arrays)
     - [Java](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/Java)
