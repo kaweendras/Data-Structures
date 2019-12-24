@@ -110,6 +110,24 @@ Array(data type, value list) :- This function is used to create an array with da
   cars = ['Ford', 'BMW', 'Volvo']
   cars.sort()
 ```
+
+### Installation 
+
+#### Windows
+Link - https://realpython.com/installing-python/
+#### Linux
+
+```linux
+  $ sudo apt-get update
+  $ sudo apt-get install python3.6
+```
+If you’re using another version of Ubuntu (e.g. the latest LTS release), we recommend using the deadsnakes PPA to install Python 3.6:
+```linux
+  $ sudo apt-get install software-properties-common
+  $ sudo add-apt-repository ppa:deadsnakes/ppa
+  $ sudo apt-get update
+  $ sudo apt-get install python3.6
+```
 #### Jump
 1. [Arrays](https://github.com/kaweendras/Data-Structures/tree/master/Arrays)
     - [Java](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/Java)
