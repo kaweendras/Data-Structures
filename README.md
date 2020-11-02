@@ -40,14 +40,28 @@
    - [PHP](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/PHP)
    - [VB.net](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/VB.net)
    - [Kotlin](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/Kotlin)
+   - [Ruby](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/Ruby)
+   - [C++](https://github.com/kaweendras/Data-Structures/tree/master/Arrays/C%2B%2B)
 2. [Stack](https://github.com/kaweendras/Data-Structures/tree/master/Stack)
    - [Java](https://github.com/kaweendras/Data-Structures/tree/master/Stack/Java)
+   - [JS](https://github.com/kaweendras/Data-Structures/tree/master/Stack/JavaScript)
    - [C++](https://github.com/kaweendras/Data-Structures/tree/master/Stack/C++)
    - [Go](https://github.com/kaweendras/Data-Structures/tree/master/Stack/Go)
 3. [Queue](https://github.com/kaweendras/Data-Structures/tree/master/Queue)
    - [Java](https://github.com/kaweendras/Data-Structures/tree/master/Queue/Java)
+   - [C](https://github.com/kaweendras/Data-Structures/tree/master/Queue/C)
+   - [JS](https://github.com/kaweendras/Data-Structures/tree/master/Queue/Javascript)
 4. [String](https://github.com/kaweendras/Data-Structures/tree/master/String)
    - [Python](https://github.com/kaweendras/Data-Structures/tree/master/String/Python)
+5. [Algorithms](https://github.com/kaweendras/Data-Structures/tree/master/Algorithms)
+6. [Searching Algorithms](https://github.com/kaweendras/Data-Structures/tree/master/Searching%20Algorithms)
+    - [DepthFirstSearch](https://github.com/kaweendras/Data-Structures/tree/master/Searching%20Algorithms/DepthFirstSearch)
+    - [Fibonacci Search](https://github.com/kaweendras/Data-Structures/tree/master/Searching%20Algorithms/Fibonacci%20Search)
+7. [Sorting Algorithms](https://github.com/kaweendras/Data-Structures/tree/master/Sorting%20Algorithms)
+    - [BubbleSort](https://github.com/kaweendras/Data-Structures/tree/master/Sorting%20Algorithms/bubbleSort)
+    - [BucketSort](https://github.com/kaweendras/Data-Structures/tree/master/Sorting%20Algorithms/bucketSort)
+    - [SelectionSort](https://github.com/kaweendras/Data-Structures/tree/master/Sorting%20Algorithms/selectionSort)
+   
 
 ## About
 
