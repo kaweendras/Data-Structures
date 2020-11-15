@@ -13,6 +13,8 @@
 [![Build Status](https://img.shields.io/badge/Source%20Editor-Visual%20Code-blue.svg)](https://code.visualstudio.com/)
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
 
+<img src="https://img.shields.io/github/hacktoberfest/2020/kaweendras/Data-Structures?style=plastic"/>
+
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
