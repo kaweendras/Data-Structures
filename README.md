@@ -1,7 +1,7 @@
 # Data Structures [Tutorial]
 
 <p align="center">
-  <img  src="https://hackernoon.com/drafts/im4m30bb.png">
+  <img  src="https://miro.medium.com/max/1838/1*KpDOKMFAgDWaGTQHL0r70g.png">
 </p>
 
 [![Contributors][contributors-shield]][contributors-url]
