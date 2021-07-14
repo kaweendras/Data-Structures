@@ -102,7 +102,7 @@ Made with [contributors-img](https://contributors-img.web.app).
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-[![Social](https://img.shields.io/twitter/follow/Dear__spider?style=social)](https://twitter.com/intent/follow?screen_name=Dear__spider)
+[![Social](https://img.shields.io/twitter/follow/kaweendra_s?style=social)](https://twitter.com/intent/follow?screen_name=Dear__spider)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -122,7 +122,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [2.1]: http://i.imgur.com/P3YfQoD.png "facebook"
 [3.1]: http://i.imgur.com/yCsTjba.png "google plus"
 [6.1]: http://i.imgur.com/0o48UoR.png "github"
-[1]: http://www.twitter.com/dear__spider
+[1]: http://www.twitter.com/kaweendra_s
 [2]: http://www.facebook.com/kaweendra
 [3]: https://plus.google.com/salithak1
 [6]: http://www.github.com/kaweendras
